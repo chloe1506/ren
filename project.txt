@@ -1,0 +1,6 @@
+Requirements for the library management
+1:used to maintain records of user details like registering books etc..
+2:Two modules namely admin,user
+3:admin can register user details provide login and password
+4:users get login id and password
+5:check for desire books
